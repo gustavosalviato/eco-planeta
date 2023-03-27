@@ -16,7 +16,7 @@ Landing Page usando ReactJS e GraphCMS
 
 
 
-## 🚀 Tecnolofias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 - NextAuth
 - Jest & Testing Library pra testes unitários
 
-## 💻 Project
+## 💻 Projeto
 
 EcoPlaneta é uma Landing Page que contém informações para biodiversida e ecologia do planeta terra e algumas dicas de como manter o nosso planeta terra preservado.
 
